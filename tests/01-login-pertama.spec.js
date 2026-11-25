@@ -23,4 +23,5 @@ test('login gagal dengan password salah', async ({ page }) => {
   await expect(page.getByTestId('error')).toContainText(
     'Username and password do not match'
   );
+  expect(1).toBe(2);
 });
