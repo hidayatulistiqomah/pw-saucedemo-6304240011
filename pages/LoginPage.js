@@ -5,7 +5,7 @@ export class LoginPage {
     this.page = page;
     this.username = page.getByTestId('username');
     this.password = page.getByTestId('password');
-    this.loginButton = page.getByTestId('login-button');
+    this.loginButton = page.getByTestId('login-button-salah');
     this.error = page.getByTestId('error');
   }
 
