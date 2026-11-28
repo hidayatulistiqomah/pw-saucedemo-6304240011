@@ -1,6 +1,6 @@
 # pw-saucedemo-<NIM>
 
-![Playwright Tests](https://github.com/<username>/pw-saucedemo-<NIM>/actions/workflows/playwright.yml/badge.svg)
+![Playwright Tests](https://github.com/hidayatulistiqomah/pw-saucedemo-6304240011/actions/workflows/playwright.yml/badge.svg)
 
 Otomasi pengujian E2E aplikasi [Swag Labs](https://www.saucedemo.com) dengan Playwright (JavaScript), Page Object Model, custom fixture, data-driven test, dan GitHub Actions (matrix Chromium, Firefox, WebKit).
 
